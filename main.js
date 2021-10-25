@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'gabi-souza',
-  youtube: 'UCii3sNXdvfNK4h5DddK-13Q',
+  youtube: 'channel/UCii3sNXdvfNK4h5DddK-13Q',
   facebook: 'profile.php?id=100010854792112',
   instagram: '0gabi.souza',
   twitter: 'v_mnog'
